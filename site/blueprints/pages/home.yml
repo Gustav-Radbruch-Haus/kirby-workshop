@@ -1,0 +1,11 @@
+title: Default Page
+preset: page
+fields:
+  bannerheadline:
+    label: Hallo Welt
+    type: text
+  text:
+    label: Text
+    type: textarea
+    size: large
+
